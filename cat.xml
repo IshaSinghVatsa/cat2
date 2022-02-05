@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cat.xsl"?>
+<Christ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="cat.xsd">
+   
+   <COMPUTER-SCIENCE>
+    <stu-name>Isha</stu-name>>
+    <stu-university>21</stu-university>>
+    <stu-phone>9876543212</stu-phone>>
+    <stu-email>isha@gmail.com</stu-email>>
+   </COMPUTER-SCIENCE>
+
+   <COMPUTER-SCIENCE>
+    <stu-name>Harsh</stu-name>>
+    <stu-university>22</stu-university>>
+    <stu-phone>8473423945</stu-phone>>
+    <stu-email>Harsh@gmail.com</stu-email>>
+   </COMPUTER-SCIENCE>
+
+   <COMPUTER-SCIENCE>
+    <stu-name>Akash</stu-name>>
+    <stu-university>22</stu-university>>
+    <stu-phone>6787645945</stu-phone>>
+    <stu-email>sky@gmail.com</stu-email>>
+   </COMPUTER-SCIENCE>
+
+</Christ>
